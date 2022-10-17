@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHans30
 - 👀 I’m interested in Machine Learning and Human Centric AI
-- 🌱 I’m currently a graduate student at University of Mayrland
+- 🌱 I’m currently a graduate student at University of Maryland, College Park.
 - 💞️ I’m looking to collaborate on Fairness in ML, Interactive and Online Learning.
 - 📫 Best way to reach me is via [ahans1@umd.edu](mailto:ahans1@umd.edu)
 
