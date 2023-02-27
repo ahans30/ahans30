@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@AHans30](https://ahans30.github.io/)
-- 👀 I’m interested in Machine Learning and Human Centric AI
+- 👀 I’m interested in Machine Learning, specifically search and recommendation systems.
 - 🌱 I’m currently a graduate student at University of Maryland, College Park.
-- 💞️ I’m looking to collaborate on Fairness in ML, Interactive and Online Learning.
+- 💞️ I’m always looking to collaborate on Reinforcement, Interactive and/or Online Learning! Reach out! :)
 - 📫 Best way to reach me is via [ahans1@umd.edu](mailto:ahans1@umd.edu)
 
 <!---
