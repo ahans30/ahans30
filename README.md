@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@AHans30](https://ahans30.github.io/)
-- 👀 I’m interested in recommendation systems, language models, and security.
-- 🌱 I’m currently a graduate student at the University of Maryland, College Park.
+- 👀 I’m interested in language models, security, and robustness.
+- 🌱 I’m currently a graduate student at the Department of Computer Science at the University of Maryland, College Park.
 - 💞️ I’m always looking to collaborate on ML projects! Reach out! :)
 - 📫 Best way to reach me is via [ahans1@umd.edu](mailto:ahans1@umd.edu)
 
